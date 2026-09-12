@@ -48,7 +48,7 @@ Knowledge Retrieval
 │
 ├─ English/
 │  ├─ icon.png
-│  ├─ v1.0/
+│  ├─ v1.0.0/
 │  │  ├─ Instructions.txt
 │  │  ├─ README.txt
 │  │  └─ knowledge/
